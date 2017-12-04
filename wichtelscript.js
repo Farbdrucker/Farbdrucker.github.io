@@ -60,7 +60,7 @@ var ListOfNames = [	"Ursula",
                     "Lukas",
                     "Madi",
                     "Lina",
-                    "Kasper"]
+                    "Kacper"]
 
 var CodeName = [    "U78xk",
                     "Ckl2s",
