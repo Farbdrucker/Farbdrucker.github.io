@@ -46,6 +46,10 @@ function CheckName(name,array)
     }
   }
 }
+
+
+function main()
+{
 var ListOfNames = [	"Ursula",
                     "Claudia",
                     "Lutz",
@@ -99,4 +103,4 @@ alert( 'Wilkommen beim Wichtelprogramm 2017' );
 
     alert('Dein_e Wichterpartner_in ist '+ ListOfNames[pick])
   }
-  //alert(ListOfNames)
+}
