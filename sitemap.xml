@@ -8,5 +8,26 @@
     <image:image>
       <image:loc>http://trash.de/images/_mg_4410-crop-u234.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://trash.de/images/printer.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://trash.de/assets/bachelor.pdf</loc>
+    <lastmod>2018-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trash.de/assets/master.pdf</loc>
+    <lastmod>2018-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trash.de/assets/cvprint.pdf</loc>
+    <lastmod>2018-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
