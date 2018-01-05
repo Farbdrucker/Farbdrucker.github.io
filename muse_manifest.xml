@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Farbdrucker.github.io" resolutions="1x" timestamp="1515165303589">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="trash.de" resolutions="1x" timestamp="1515175192853">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3830750143" ref="index"/>
+    <file name="index.css" crc="3976986020" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,9 +14,9 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="_mg_4410-crop-u234.jpg" crc="3768885005" seo="true" ref="index">
+    <file name="_mg_4410-crop-u234.jpg" crc="76251881" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4251384493" seo="true" mt="1515165108146" redirect="true"/>
+  <file name="index.html" crc="3958143205" seo="true" mt="1515172811261" redirect="true"/>
 </manifest>
