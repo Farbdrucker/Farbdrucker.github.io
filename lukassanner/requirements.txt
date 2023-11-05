@@ -1,0 +1,8 @@
+md-mermaid
+markdown
+Pygments
+pymdown-extensions
+
+pre-commit
+django
+
