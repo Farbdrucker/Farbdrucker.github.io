@@ -1,7 +1,7 @@
 md-mermaid
 markdown
 Pygments
-pymdown-extensions
+python-markdown-math
 
 pre-commit
 django
