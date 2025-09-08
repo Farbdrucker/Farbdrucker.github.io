@@ -1,8 +1,0 @@
-md-mermaid
-markdown
-Pygments
-python-markdown-math
-
-pre-commit
-django
-
