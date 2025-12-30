@@ -33,6 +33,8 @@ TEST_DIR = Path("test_site")
 DEPLOY_DIR = Path("docs")
 BUILD_CACHE = Path(".build_cache.json")
 
+WEBSITE_URL = "https://farbdrucker.github.io/"
+
 # These will be set by the build command
 OUTPUT_DIR = None
 HOME_INDEX = None
@@ -195,7 +197,7 @@ def build(
         console.log(f"[yellow]Building for local testing to {OUTPUT_DIR}[/yellow]")
     else:
         OUTPUT_DIR = DEPLOY_DIR
-        BASE_URL = "https://blog.lukassanner.de"
+        BASE_URL = WEBSITE_URL
         console.log(f"[green]Building for deployment to {OUTPUT_DIR}[/green]")
 
     HOME_INDEX = OUTPUT_DIR / "index.html"
